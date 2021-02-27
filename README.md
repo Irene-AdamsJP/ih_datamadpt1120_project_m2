@@ -2,7 +2,7 @@
 
 #_My Module 2 Project: Exploratory Data Visualization_
 
-![Image](https://www.google.es/url?sa=i&url=https%3A%2F%2Fwww.miningweekly.com%2Farticle%2Ffrom-carats-to-peanuts-how-a-pandemic-upended-the-global-diamond-industry-2020-08-12&psig=AOvVaw0BKYtBZonZ1NryK-D909z6&ust=1614514200277000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKi0_6CEiu8CFQAAAAAdAAAAABAQ)
+![Image](https://estaticos.muyinteresante.es/uploads/images/article/5888a6e85cafe8a76908d93f/diamantes_0.jpg)
 
 
 
