@@ -13,15 +13,15 @@ I had to represent visually a diamonds dataframe giving data insights.
 
 This dataframe has 10 columns:
 - price
-- carat
+- carat (weight)
 - cut
 - color
 - clarity
-- x
-- y
-- z
-- depth
-- table
+- x (length in mm)
+- y (width in mm)
+- z (depth in mm)
+- depth (total depth percentage = z / mean(x, y) = 2 * z / (x + y) (43--79))
+- table (width of top of diamond relative to widest point (43--95))
 
 After carefull analysis, we can conclude that that the variable that influences the most on diamonds price is the carat (the weight of the diamonds) and that the is not the same quantity of diamonds for all the variables. Furthermore, variables x, y and z (related to diamond size) increase as carat size increases.
 
