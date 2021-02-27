@@ -9,7 +9,7 @@
 
 ## **Presentation:**
 
-I had to create a visual representation giving data insights of a diamonds datframe.
+I had to represent visually a diamonds dataframe giving data insights.
 
 This dataframe has 10 columns:
 - price
@@ -25,4 +25,9 @@ This dataframe has 10 columns:
 
 After carefull analysis, we can conclude that that the variable that influences the most on diamonds price is the carat (the weight of the diamonds) and that the is not the same quantity of diamonds for all the variables. Furthermore, variables x, y and z (related to diamond size) increase as carat size increases.
 
+I have also created 2 visual representations in Tableau that you can find here: 
+1- https://public.tableau.com/profile/irene.adams.jdp#!/vizhome/Diamondsanalysis12/ClaridadColorCorte?publish=yes
+2- https://public.tableau.com/profile/irene.adams.jdp#!/vizhome/Diamondsanalysis22/QuilatesyTamao?publish=yes
+
 Thank you all!
+
